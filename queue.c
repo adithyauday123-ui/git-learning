@@ -4,3 +4,6 @@ int arr[max],top=-1,front=-1;
 ejfnjefs
 dmwvwkfpf
 feovoemm
+sike 
+hello
+mydear
